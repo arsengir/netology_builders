@@ -1,5 +1,5 @@
 ## Overview
-Repository with preconfigured maven project with junit5 configuration
+Сборка проектов. Maven
 
 ## Building
 ...
