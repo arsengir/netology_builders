@@ -1,3 +1,5 @@
+package com.github.arsengir;
+
 import java.util.UUID;
 
 public class Db {

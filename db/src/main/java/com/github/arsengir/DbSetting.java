@@ -1,3 +1,5 @@
+package com.github.arsengir;
+
 public class DbSetting {
 
     private String name;
